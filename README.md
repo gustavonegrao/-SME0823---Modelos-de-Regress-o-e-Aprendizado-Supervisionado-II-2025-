@@ -1,2 +1,2 @@
-# -SME0823---Modelos-de-Regress-o-e-Aprendizado-Supervisionado-II-2025-
+# -SME0823---Modelos de Regressão e Aprendizado Supervisionado II (2025)
 Atividade 2
